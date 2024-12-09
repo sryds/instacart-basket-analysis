@@ -8,6 +8,6 @@ Folder 01 Project Management contains project brief pdf
 
 Folder 03 Scripts contains Python scripts used for analysis and visualizations
 
-Folder 04 Analysis contains crosstab data in Excel used for consistency and accuracy checks
+Folder 04 Analysis contains the subfolder Test Files containing crosstab data in Excel used for consistency and accuracy checks, and the subfolder Visuals, containing image files of Python charts
 
 Folder 05 Sent to Client contains final report with descriptions of insights and accompanying visuals. 
