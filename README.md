@@ -2,7 +2,7 @@
 
 This repository contains exploratory analysis of fictional customer and sales data from Instacart. The purpose of this analysis is to inform future strategies for market segmentation.
 
-Analysis performed using Python.
+Code written in Python and excecuted with Jupyter Notebook.
 
 Folder 01 Project Management contains project brief pdf
 
